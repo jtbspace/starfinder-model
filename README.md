@@ -11,7 +11,7 @@ Final repo:
 
 
 # To use: 
-1. download the file 
-2. open it with jupyter notebook (tested on Anaconda) and python version 3.8
+1. Download the file 
+2. Open it with jupyter notebook (tested on Anaconda) and python version 3.8
 3. Run it with the dataset, change the file location in the datagen's.
 4.Run all blocks in order, graph and sample predictions will be made after model trains.
